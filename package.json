@@ -1,0 +1,20 @@
+{
+  "name": "static-site",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "fetch": "wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains zivoradmilekic.net --no-parent www.zivoradmilekic.net/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zivoradmilekic/static-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zivoradmilekic/static-site/issues"
+  },
+  "homepage": "https://github.com/zivoradmilekic/static-site"
+}
