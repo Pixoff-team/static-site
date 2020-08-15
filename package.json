@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "fetch": "wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains zivoradmilekic.net --no-parent www.zivoradmilekic.net/"
+    "fetch": "wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --domains pixoff.co --no-parent pixoff.co/"
   },
   "repository": {
     "type": "git",
